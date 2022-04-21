@@ -2,10 +2,10 @@
 
 ![csharp](https://forthebadge.com/images/badges/made-with-c-sharp.svg)
 
-# 3D-Farm-Game
+# 3D-Farm-Game  (In development)
 
 ## Introduction
-3D Farm game where you can plant, harvest and trade. -In development
+3D Farm game where you can plant, harvest and trade.
 
 ## Contributors
 Enes Özdemir : https://github.com/enes-ozdemir </br>
